@@ -38,7 +38,7 @@ document.querySelector('#loadFrameVersion').onclick = async function() {
 	});
 	//bottom info
 	loadBottomInfo({
-		top: {text:'Illus: {elemidinfo-artist}', x:0.1, y:0.8728, width:0.8, height:0.0267, oneLine:true, size:0.0267, align:'center', shadowX:0.0021, shadowY:0.0015, color:'#ffffff'},
+		top: {text:'Illus: {elemidinfo-artist}', x:0.1, y:0.8728, width:0.8, height:0.0267, oneLine:true, size:0.0267, align:'center', shadowX:0.0021, shadowY:0.0015, color:'#eeeeee'},
 		wizards: {name:'wizards', text:'{elemidinfo-number}', x:0.1, y:0.9009, width:0.8, height:0.0172, oneLine:true, size:0.0172, align:'center', shadowX:0.0014, shadowY:0.001, color:'white'},
 		bottom: {text:'NOT FOR SALE   CardConjurer.com', x:0.1, y:0.912, width:0.8, height:26/2100, oneLine:true, size:26/2100, align:'center', shadowX:0.0014, shadowY:0.001, color:'white'}
 	});
